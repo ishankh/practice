@@ -1,1 +1,2 @@
 # practice
+writ shell scripts
